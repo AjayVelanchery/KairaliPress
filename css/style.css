@@ -536,13 +536,11 @@ a:focus {
 }
 
 .service_section .box:hover {
-  background-color: #ff8a1d;
-  color: #ffffff;
+  
 }
 
 .service_section .box:hover .img-box img {
-  -webkit-filter: brightness(0) invert(1);
-          filter: brightness(0) invert(1);
+  
 }
 
 .service_section .btn-box {
